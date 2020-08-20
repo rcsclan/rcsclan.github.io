@@ -1,0 +1,14 @@
+//Overview: Zoom 1.33, Map Origin (-80.00, 624.00, -320.00), Z Min 49.00, Z Max -689.00, Rotated 1
+
+global 
+{
+	ZOOM	1.33
+	ORIGIN	-80.00 	624.00	-689.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_cached.bmp"
+	HEIGHT	-689.00
+}
